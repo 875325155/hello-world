@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# Hey humans
+I just want to learn how to get started!
